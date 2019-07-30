@@ -1,0 +1,26 @@
+{
+  "name": "autokin-html-formatter",
+  "version": "0.1.0",
+  "description": "Autokin HTML Formatter that conforms with Cucumber Formatter",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/autokinjs/autokin-html-formatter.git"
+  },
+  "keywords": [
+    "autokin",
+    "cucumber",
+    "cucumberjs",
+    "testing",
+    "html",
+    "report",
+    "formatter",
+    "html reporter"
+  ],
+  "author": "Aries Beltran <ariesbe@icloud.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/autokinjs/autokin-html-formatter/issues"
+  },
+  "homepage": "https://github.com/autokinjs/autokin-html-formatter#readme"
+}
